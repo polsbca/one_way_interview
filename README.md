@@ -30,7 +30,7 @@ A modern Laravel-based platform for conducting one-way video interviews, designe
 
 - **Backend**: Laravel 10.x
 - **Frontend**: Bootstrap 5, JavaScript (ES6+)
-- **Database**: MySQL/PostgreSQL
+- **Database**: MySQL
 - **Video Storage**: Local filesystem or AWS S3
 - **Authentication**: Laravel Sanctum
 - **File Upload**: Laravel Filesystem
@@ -42,7 +42,7 @@ A modern Laravel-based platform for conducting one-way video interviews, designe
 - PHP 8.1 or higher
 - Composer
 - Node.js & NPM
-- MySQL or PostgreSQL
+- MySQL
 - Web Server (Apache/Nginx)
 - SSL Certificate (for production)
 
